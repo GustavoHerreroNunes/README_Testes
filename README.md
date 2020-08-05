@@ -1,8 +1,13 @@
 # README_Testes
+
 >Este projeto visa testar os comandos da linguagem de marcação _Markdow_
+
 ##Códigos Códigos 😎
+
 A seguir temos alguns códigos de diferentes linguagens
+
 -Html
+
 ```
 <html>
 	<header>
@@ -10,7 +15,9 @@ A seguir temos alguns códigos de diferentes linguagens
 	</header>
 </html>
 ```
+
 -Java☕
+
 ```
 public static void main(String[] args){
 	int x =0;
@@ -20,7 +27,9 @@ public static void main(String[] args){
 	} 
 }
 ```
+
 -PHP
+
 ```
 <?php
 	$num = $_POST['numF'];
@@ -30,8 +39,11 @@ public static void main(String[] args){
 		echo $num." menor do que zero";
 ?>
 ```
+
 ##Exemplo da aplicação
+
 Mostrando funcionamento da aplicação
 
 ##Entre em contato
+
 Entre em contato comigo pelas redes
