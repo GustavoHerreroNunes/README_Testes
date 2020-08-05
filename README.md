@@ -2,11 +2,11 @@
 
 >Este projeto visa testar os comandos da linguagem de marcação _Markdow_
 
-##Códigos Códigos 😎
+## Códigos Códigos 😎
 
 A seguir temos alguns códigos de diferentes linguagens
 
--Html
+- Html✏
 
 ```
 <html>
@@ -16,7 +16,7 @@ A seguir temos alguns códigos de diferentes linguagens
 </html>
 ```
 
--Java☕
+- Java☕
 
 ```
 public static void main(String[] args){
@@ -28,7 +28,7 @@ public static void main(String[] args){
 }
 ```
 
--PHP
+- PHP📑
 
 ```
 <?php
@@ -40,10 +40,10 @@ public static void main(String[] args){
 ?>
 ```
 
-##Exemplo da aplicação
+## Exemplo da aplicação
 
 Mostrando funcionamento da aplicação
 
-##Entre em contato
+## Entre em contato
 
 Entre em contato comigo pelas redes
