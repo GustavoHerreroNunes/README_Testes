@@ -44,6 +44,11 @@ public static void main(String[] args){
 
 Mostrando funcionamento da aplicação
 
+![README_funcionamento](/funcionamento.png)
+
 ## Entre em contato
 
 Entre em contato comigo pelas redes
+
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/neves.nunes.98)](https://www.facebook.com/neves.nunes.98)
+[![Tinkercad](https://img.shields.io/badge/-Tinkercad-yellow?style=flat-square&labelColor=yellow&link=https://www.tinkercad.com/users/2lFtSPu8Hb1-gustavo-herrero-nunes)](https://www.tinkercad.com/users/2lFtSPu8Hb1-gustavo-herrero-nunes)
